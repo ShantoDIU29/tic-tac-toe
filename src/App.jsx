@@ -1,9 +1,13 @@
-import Square from "./Square"
+import Board from "./Board"
+
 
 function App() {
   return (
     <div>
-    <Square></Square>
+    
+    <Board>
+
+    </Board>
     </div>
   )
 }
